@@ -1,3 +1,45 @@
 html {
   text-align: center;
+  font-family: Helvetica;
+}
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+h4.intro {
+  font-size: 18px;
+  color: white;
+}
+h2.process {
+  font-size: 32px;
+  font-weight: bold;
+}
+h3.process {
+  font-size: 23px;
+  font-weight: bold;
+}
+p.process {
+  font-size: 14px;
+}
+#location {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url("./images/the-flatiron-building.png");
+}
+#footnote {
+  text-align: left;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
+.process {
+  background-color: white;
+}
+.contact {
+  background-color: white;
+}
+#top {
+  background-image: url("/Users/Claudia/Documents/Projects/Broadway/images/the-flatiron-building.png");
 }
