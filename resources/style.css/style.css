@@ -7,26 +7,26 @@ h1 {
   font-weight: bold;
   color: white;
 }
-h4.intro {
+h4 {
   font-size: 18px;
   color: white;
 }
-h2.process {
+h2 {
   font-size: 32px;
   font-weight: bold;
 }
-h3.process {
+h3 {
   font-size: 23px;
   font-weight: bold;
 }
-p.process {
+p.description {
   font-size: 14px;
 }
 #location {
   font-size: 23px;
   font-weight: bold;
   color: white;
-  background-image: url("./images/the-flatiron-building.png");
+  background-image: url("../../images/the-flatiron-building.png");
 }
 #footnote {
   text-align: left;
@@ -41,5 +41,5 @@ p.process {
   background-color: white;
 }
 #top {
-  background-image: url("/Users/Claudia/Documents/Projects/Broadway/images/the-flatiron-building.png");
+  background-image: url("../../images/the-flatiron-building.png");
 }
